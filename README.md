@@ -4,7 +4,7 @@ This benchmark, affectionately named [`budden-bench`](https://x.com/maxvonhippel
 
 ## Inspiration
 
-This project was inspired by the paper [Disproof of the Mertens Conjecture](https://www.sciencedirect.com/science/article/pii/0022314X85900764) which showed how computational algebra systems like GAP can be used to solve longstanding mathematical conjectures by finding counterexamples.
+This project was inspired by the historical successes of mathematical software for resolving open conjectures, pre-LLM.
 
 ## Tools
 
